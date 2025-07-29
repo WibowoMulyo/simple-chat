@@ -1,0 +1,156 @@
+{
+  "results": [
+    {
+      "room": {
+        "name": "Product A",
+        "id": 12456,
+        "image_url": "https://picsum.photos/id/237/200/300",
+        "participant": [
+          {
+            "id": "admin@mail.com",
+            "name": "Admin",
+            "role": 0
+          },
+          {
+            "id": "agent@mail.com",
+            "name": "Agent A",
+            "role": 1
+          },
+          {
+            "id": "customer@mail.com",
+            "name": "king customer",
+            "role": 2
+          }
+        ]
+      },
+      "comments": [
+        {
+          "id": 885512,
+          "type": "text",
+          "message": "Selamat malam",
+          "sender": "customer@mail.com"
+        },
+        {
+          "id": 885513,
+          "type": "text",
+          "message": "Malam",
+          "sender": "agent@mail.com"
+        },
+        {
+          "id": 885514,
+          "type": "text",
+          "message": "Ada yang bisa saya bantu?",
+          "sender": "agent@mail.com"
+        },
+        {
+          "id": 885515,
+          "type": "text",
+          "message": "Saya ingin mengirimkan bukti pembayaran, karena diaplikasi selalu gagal",
+          "sender": "customer@mail.com"
+        },
+        {
+          "id": 885516,
+          "type": "text",
+          "message": "Baik, silahkan kirimkan lampiran bukti pembayarannya",
+          "sender": "agent@mail.com"
+        },
+        {
+          "id": 885517,
+          "type": "text",
+          "message": "Baik, silahkan kirimkan lampiran bukti pembayarannya",
+          "sender": "admin@mail.com"
+        },
+        {
+          "id": 885518,
+          "type": "image",
+          "message": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&h=300&fit=crop",
+          "sender": "customer@mail.com"
+        },
+        {
+          "id": 885519,
+          "type": "text",
+          "message": "Ini bukti transfer saya",
+          "sender": "customer@mail.com"
+        },
+        {
+          "id": 885520,
+          "type": "text",
+          "message": "Terima kasih, bukti pembayaran sudah diterima. Mohon tunggu konfirmasi dari tim finance",
+          "sender": "agent@mail.com"
+        },
+        {
+          "id": 885521,
+          "type": "pdf",
+          "message": "https://www.adobe.com/support/products/enterprise/knowledgecenter/media/c4611_sample_explain.pdf",
+          "sender": "agent@mail.com"
+        },
+        {
+          "id": 885522,
+          "type": "text",
+          "message": "Silahkan download invoice pembayaran diatas",
+          "sender": "agent@mail.com"
+        },
+        {
+          "id": 885523,
+          "type": "video",
+          "message": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+          "sender": "customer@mail.com"
+        },
+        {
+          "id": 885524,
+          "type": "text",
+          "message": "Video ini menunjukkan masalah yang saya alami saat melakukan pembayaran",
+          "sender": "customer@mail.com"
+        },
+        {
+          "id": 885525,
+          "type": "image",
+          "message": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=500&h=400&fit=crop",
+          "sender": "agent@mail.com"
+        },
+        {
+          "id": 885526,
+          "type": "text",
+          "message": "Ini screenshot dari sistem kami yang menunjukkan pembayaran sudah berhasil diproses",
+          "sender": "agent@mail.com"
+        },
+        {
+          "id": 885527,
+          "type": "video",
+          "message": "https://youtu.be/_lXTFYj99FM?si=EcnP39s1SzQM-WA_",
+          "sender": "agent@mail.com"
+        },
+        {
+          "id": 885528,
+          "type": "text",
+          "message": "Video tutorial cara melakukan pembayaran online yang aman dan benar",
+          "sender": "agent@mail.com"
+        },
+        {
+          "id": 885529,
+          "type": "pdf",
+          "message": "https://www.learningcontainer.com/wp-content/uploads/2019/09/sample-pdf-file.pdf",
+          "sender": "customer@mail.com"
+        },
+        {
+          "id": 885530,
+          "type": "text",
+          "message": "Ini adalah laporan transaksi saya bulan ini, mohon dicek apakah ada yang bermasalah",
+          "sender": "customer@mail.com"
+        },
+        {
+          "id": 885531,
+          "type": "image",
+          "message": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop",
+          "sender": "agent@mail.com"
+        },
+        {
+          "id": 885532,
+          "type": "text",
+          "message": "Berikut ini screenshot konfirmasi bahwa pembayaran Anda telah berhasil diproses oleh sistem kami",
+          "sender": "agent@mail.com"
+        }
+      ]
+    }
+  ]
+}
